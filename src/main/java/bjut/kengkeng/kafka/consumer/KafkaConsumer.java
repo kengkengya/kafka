@@ -1,6 +1,6 @@
-package bjut.kengkeng.kafka01.consumer;
+package bjut.kengkeng.kafka.consumer;
 
-import bjut.kengkeng.kafka01.producer.KafkaProducer;
+import bjut.kengkeng.kafka.producer.KafkaProducer;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.common.serialization.StringDeserializer;

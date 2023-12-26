@@ -1,4 +1,4 @@
-package bjut.kengkeng.kafka01;
+package bjut.kengkeng.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

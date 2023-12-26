@@ -1,13 +1,13 @@
-package bjut.kengkeng.kafka01;
+package bjut.kengkeng.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Kafka01Application {
+public class KafkaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Kafka01Application.class, args);
+        SpringApplication.run(KafkaApplication.class, args);
     }
 
 }

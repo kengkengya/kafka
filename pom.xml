@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>bjut.kengkeng</groupId>
-    <artifactId>kafka01</artifactId>
+    <artifactId>kafka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>kafka01</name>
     <description>kafka01</description>

@@ -1,4 +1,4 @@
-package bjut.kengkeng.kafka01.producer;
+package bjut.kengkeng.kafka.producer;
 
 import org.apache.kafka.clients.producer.Producer;
 import org.apache.kafka.clients.producer.ProducerRecord;
